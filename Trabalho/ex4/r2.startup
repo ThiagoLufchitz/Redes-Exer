@@ -1,0 +1,6 @@
+ip address flush dev eth0
+ip address flush dev eth1
+ip address flush dev eth2
+ip address add 8.4.3.121/30 dev eth0
+ip address add 8.4.3.125/30 dev eth1
+ip address add 8.4.3.129/30 dev eth2

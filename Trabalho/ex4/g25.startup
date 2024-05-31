@@ -1,0 +1,4 @@
+ip address flush dev eth0
+ip address add 8.4.3.90/27 dev eth0
+ip route add default via 8.4.3.65
+

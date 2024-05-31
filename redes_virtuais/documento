@@ -1,0 +1,4 @@
+http://baturin.org/docs/iproute2/
+ ../Kathara/bin/lhalt
+../Kathara/bin/lstart
+export NETKIT_HOME=/home/aluno/Kathara/bin/
